@@ -52,7 +52,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5ZPLBMI4b5httvobRTlc-5" value="Training and Validating : BERT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5ZPLBMI4b5httvobRTlc-5" value="Training and Validating :&amp;nbsp;&lt;div&gt;BERT and SVM&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5ZPLBMI4b5httvobRTlc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ZPLBMI4b5httvobRTlc-6" target="5ZPLBMI4b5httvobRTlc-5">
@@ -81,7 +81,7 @@
         <mxCell id="5ZPLBMI4b5httvobRTlc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ZPLBMI4b5httvobRTlc-18" target="5ZPLBMI4b5httvobRTlc-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5ZPLBMI4b5httvobRTlc-18" value="Training and&amp;nbsp;&lt;div&gt;Testing : BERT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5ZPLBMI4b5httvobRTlc-18" value="Prediction and Classification&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;:&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;BERT and SVM&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5ZPLBMI4b5httvobRTlc-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ZPLBMI4b5httvobRTlc-21" target="5ZPLBMI4b5httvobRTlc-25">
