@@ -1,4 +1,4 @@
-# BERT for Sentiment Analysis on Steam Reviews
+# BERT for Sentiment Analysis on Steam Reviews RPG Game
 
 This project utilizes BERT (Bidirectional Encoder Representations from Transformers) to perform sentiment analysis on
 Steam reviews. The project is organized into two main folders:
