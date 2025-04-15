@@ -1,6 +1,6 @@
-# BERT for Sentiment Analysis on Steam Reviews RPG Game
+# RoBERTa for Sentiment Analysis on Steam Reviews RPG Game
 
-This project utilizes BERT (Bidirectional Encoder Representations from Transformers) to perform sentiment analysis on
+This project utilizes RoBERTa to perform sentiment analysis on
 Steam reviews. The project is organized into two main folders:
 
 1. `non-transform data`: Contains Jupyter notebooks (`.ipynb` files) with experiments using learning rates from 1e-5 to 5e-5.
