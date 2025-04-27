@@ -19,13 +19,13 @@
         <mxCell id="95U1aUTwDA3ZDBjEYCyH-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ZPLBMI4b5httvobRTlc-4" target="5ZPLBMI4b5httvobRTlc-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5ZPLBMI4b5httvobRTlc-4" value="Feature Extraction :&lt;br&gt;BERT Based" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5ZPLBMI4b5httvobRTlc-4" value="Feature Extraction" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="447.5" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="95U1aUTwDA3ZDBjEYCyH-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ZPLBMI4b5httvobRTlc-18" target="5ZPLBMI4b5httvobRTlc-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5ZPLBMI4b5httvobRTlc-18" value="Prediction and Classification&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;:&amp;nbsp;&lt;/span&gt;&lt;div&gt;LLM Based&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="5ZPLBMI4b5httvobRTlc-18" value="Prediction and Classification" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="447.5" y="417" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="95U1aUTwDA3ZDBjEYCyH-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5ZPLBMI4b5httvobRTlc-21" target="5ZPLBMI4b5httvobRTlc-25">
