@@ -1,10 +1,10 @@
 <mxfile host="65bd71144e">
     <diagram name="Halaman-1" id="EO8M5acR98Tv6OP4zz49">
-        <mxGraphModel dx="1567" dy="2308" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1828" dy="2497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="2" value="" style="group;fontSize=25;" vertex="1" connectable="0" parent="1">
+                <mxCell id="2" value="" style="group;fontSize=25;" parent="1" vertex="1" connectable="0">
                     <mxGeometry x="250" y="-62.5" width="550" height="852.5" as="geometry"/>
                 </mxCell>
                 <mxCell id="wb8jJMgzwJ6dVFCxpj_n-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;" parent="2" source="5ZPLBMI4b5httvobRTlc-1" target="95U1aUTwDA3ZDBjEYCyH-7" edge="1">
@@ -92,6 +92,44 @@
                 </mxCell>
                 <mxCell id="wb8jJMgzwJ6dVFCxpj_n-14" value="Data Training" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" parent="2" vertex="1">
                     <mxGeometry x="281.875" y="602.8941441441442" width="206.25" height="92.16216216216218" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="" style="group;fontSize=25;" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="110" y="910" width="1205.45" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="39">
+                    <mxGeometry width="1205.45" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;" edge="1" parent="39" source="27" target="29">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="262.72628205128206" y="108.18181818181819" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="27" value="Punctual Removal" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="39">
+                    <mxGeometry x="15.454487179487181" y="61.818181818181806" width="185.45384615384614" height="92.72727272727273" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;" edge="1" parent="39" source="29" target="31">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Case Folding&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="39">
+                    <mxGeometry x="262.72628205128206" y="61.818181818181806" width="185.45384615384614" height="92.72727272727273" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;" edge="1" parent="39" source="31" target="32">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="Stopword Removal" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="39">
+                    <mxGeometry x="509.9980769230769" y="61.818181818181806" width="185.45384615384614" height="92.72727272727273" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;" edge="1" parent="39" source="32" target="33">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="Lemmatization" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="39">
+                    <mxGeometry x="757.2698717948718" y="61.818181818181806" width="185.45384615384614" height="92.72727272727273" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="Tokenization" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="39">
+                    <mxGeometry x="1004.5416666666666" y="61.818181818181806" width="185.45384615384614" height="92.72727272727273" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="Preprocessing" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="39">
+                    <mxGeometry x="556.3615384615385" y="7.727272727272726" width="92.72692307692307" height="46.36363636363637" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
